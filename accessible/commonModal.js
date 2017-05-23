@@ -1,3 +1,5 @@
+goog.provide('Blockly.CommonModal');
+
 Blockly.CommonModal = function() {};
 
 Blockly.CommonModal.setupKeyboardOverrides = function(component) {
